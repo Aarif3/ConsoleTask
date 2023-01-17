@@ -1,0 +1,13 @@
+C:\Check_List Task\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.deps.json
+C:\Check_List Task\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.runtimeconfig.json
+C:\Check_List Task\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.runtimeconfig.dev.json
+C:\Check_List Task\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.dll
+C:\Check_List Task\Async_Await\bin\Debug\netcoreapp2.1\Async_Await.pdb
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.csproj.AssemblyReference.cache
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.AssemblyInfoInputs.cache
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.AssemblyInfo.cs
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.csproj.CoreCompileInputs.cache
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.dll
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.pdb
+C:\Check_List Task\Async_Await\obj\Debug\netcoreapp2.1\Async_Await.genruntimeconfig.cache
