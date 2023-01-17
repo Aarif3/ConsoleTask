@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\CCodeFirst.exe.config
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\CCodeFirst.exe
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\CCodeFirst.pdb
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.csproj.CopyComplete
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.exe
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.pdb
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.Migrations.CreatePost.resources
+C:\Users\DELL\source\repos\CCodeFirst\CCodeFirst\obj\Debug\CCodeFirst.csproj.GenerateResource.cache
