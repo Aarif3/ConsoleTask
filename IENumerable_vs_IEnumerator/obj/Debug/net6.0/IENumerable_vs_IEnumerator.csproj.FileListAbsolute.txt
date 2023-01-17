@@ -1,0 +1,15 @@
+C:\Check_List Task\IENumerable_vs_IEnumerator\bin\Debug\net6.0\IENumerable_vs_IEnumerator.exe
+C:\Check_List Task\IENumerable_vs_IEnumerator\bin\Debug\net6.0\IENumerable_vs_IEnumerator.deps.json
+C:\Check_List Task\IENumerable_vs_IEnumerator\bin\Debug\net6.0\IENumerable_vs_IEnumerator.runtimeconfig.json
+C:\Check_List Task\IENumerable_vs_IEnumerator\bin\Debug\net6.0\IENumerable_vs_IEnumerator.dll
+C:\Check_List Task\IENumerable_vs_IEnumerator\bin\Debug\net6.0\IENumerable_vs_IEnumerator.pdb
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.csproj.AssemblyReference.cache
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.AssemblyInfoInputs.cache
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.AssemblyInfo.cs
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.dll
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\refint\IENumerable_vs_IEnumerator.dll
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.pdb
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\IENumerable_vs_IEnumerator.genruntimeconfig.cache
+C:\Check_List Task\IENumerable_vs_IEnumerator\obj\Debug\net6.0\ref\IENumerable_vs_IEnumerator.dll
