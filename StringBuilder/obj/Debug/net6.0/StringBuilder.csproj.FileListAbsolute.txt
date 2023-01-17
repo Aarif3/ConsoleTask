@@ -1,0 +1,15 @@
+C:\Check_List Task\StringBuilder\bin\Debug\net6.0\StringBuilder.exe
+C:\Check_List Task\StringBuilder\bin\Debug\net6.0\StringBuilder.deps.json
+C:\Check_List Task\StringBuilder\bin\Debug\net6.0\StringBuilder.runtimeconfig.json
+C:\Check_List Task\StringBuilder\bin\Debug\net6.0\StringBuilder.dll
+C:\Check_List Task\StringBuilder\bin\Debug\net6.0\StringBuilder.pdb
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfo.cs
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.dll
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\refint\StringBuilder.dll
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.pdb
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\StringBuilder.genruntimeconfig.cache
+C:\Check_List Task\StringBuilder\obj\Debug\net6.0\ref\StringBuilder.dll
