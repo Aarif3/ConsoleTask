@@ -1,0 +1,8 @@
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\bin\Debug\VALUE_REF_OUT_Keyword.exe.config
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\bin\Debug\VALUE_REF_OUT_Keyword.exe
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\bin\Debug\VALUE_REF_OUT_Keyword.pdb
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\obj\Debug\VALUE_REF_OUT_Keyword.csproj.AssemblyReference.cache
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\obj\Debug\VALUE_REF_OUT_Keyword.csproj.SuggestedBindingRedirects.cache
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\obj\Debug\VALUE_REF_OUT_Keyword.csproj.CoreCompileInputs.cache
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\obj\Debug\VALUE_REF_OUT_Keyword.exe
+C:\Check_List Task\VALUE_REF_OUT_Keyword\VALUE_REF_OUT_Keyword\obj\Debug\VALUE_REF_OUT_Keyword.pdb
